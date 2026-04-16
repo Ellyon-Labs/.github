@@ -4,7 +4,7 @@ Building **[Seraph](https://github.com/elyon-labs/seraph-indexer)** — the prot
 
 Paste any transaction hash. See the full cross-chain journey across 14 bridge protocols on EVM, Solana, and Cosmos.
 
-*Illuminate the invisible.*
+*Every chain. Every bridge. One truth.*
 
 ---
 
